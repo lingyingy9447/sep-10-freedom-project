@@ -1,7 +1,31 @@
-#context {
+#home {
     text-align:center;
     background-color:#d7a1f9;
     background-size:cover;
-    padding: 15px;
+    padding: 20px;
     font-size: 20px;
 }
+
+#context-1{
+    background-color:#c576f6;
+}
+
+#bg {
+    text-align: center;
+    padding-top: 55px;
+    background-color:#d7a1f9;
+    background-image: url('');
+   
+}
+.pad {
+    padding-top:15px;
+}
+
+/*@media (min-width: 301px) and (max-width: 600px) {
+  #slogan {
+    background-size:cover;
+  
+    background-image: image-url("imgs/music-2.jpg");
+  }
+}*/
+
