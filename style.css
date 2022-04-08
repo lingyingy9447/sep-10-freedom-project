@@ -21,6 +21,16 @@
     padding-top:15px;
 }
 
+#past{
+    text-align:center;
+    background-color:#F676E7;
+    background-size:cover;
+    padding: 20px;
+    font-size: 20px;
+}
+#past-1 {
+    background-color:#ebecf0;
+}
 /*@media (min-width: 301px) and (max-width: 600px) {
   #slogan {
     background-size:cover;
