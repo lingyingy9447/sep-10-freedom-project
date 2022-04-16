@@ -44,12 +44,16 @@
 
 #future {
     text-align:center;
-    background-color:;
+    background-color:lightgray;
     background-size:cover;
     padding: 20px;
     font-size: 20px;
 }
 
+
+.pad {
+    padding:50px;
+}
 
 /*@media (min-width: 301px) and (max-width: 600px) {
   #slogan {
