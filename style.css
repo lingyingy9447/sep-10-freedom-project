@@ -4,6 +4,7 @@
     background-size:cover;
     padding: 20px;
     font-size: 20px;
+  
 }
 
 #context-1{
@@ -50,7 +51,9 @@
     font-size: 20px;
 }
 
-
+#future-1 {
+    background-color:;
+}
 .pad {
     padding:50px;
 }
