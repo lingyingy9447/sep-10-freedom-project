@@ -1,6 +1,6 @@
 #home {
     text-align:center;
-    background-color:#d7a1f9;
+    background-color:#C8DFDB;
     background-size:cover;
     padding: 20px;
   
@@ -8,7 +8,7 @@
 }
 
 #context-1{
-    background-color:#c576f6;
+    background-color:#D0F5E4;
 }
 
 #bg {
@@ -24,18 +24,18 @@
 
 #past{
     text-align:center;
-    background-color:#F676E7;
+    background-color:#C7EBD1;
     background-size:cover;
     padding: 20px;
   
 }
 #past-1 {
-    background-color:#ebecf0;
+    background-color:#C8DFDB;
 }
 
 #past2{
     text-align:center;
-    background-color:#ADD8E6
+    background-color:#C7EBD1
 ;
     background-size:cover;
     padding: 20px;
@@ -45,17 +45,23 @@
 
 #future {
     text-align:center;
-    background-color:lightgray;
+    background-color:#BFD6C9;
     background-size:cover;
     padding: 20px;
   
 }
 
 #future-1 {
-    background-color:;
+ background-color:#D3E0D8;
 }
 .pad {
     padding:50px;
+}
+
+
+
+#timeline-2-bg {
+    background-color:#C8DFDB;
 }
 
 /*@media (min-width: 301px) and (max-width: 600px) {
