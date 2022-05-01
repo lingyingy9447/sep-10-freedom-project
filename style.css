@@ -24,7 +24,7 @@
 
 #past{
     text-align:center;
-    background-color:#F676E7;
+    background-color:white;
     background-size:cover;
     padding: 20px;
   
@@ -35,7 +35,7 @@
 
 #past2{
     text-align:center;
-    background-color:#ADD8E6
+    background-color:white
 ;
     background-size:cover;
     padding: 20px;
@@ -45,19 +45,20 @@
 
 #future {
     text-align:center;
-    background-color:lightgray;
+    background-color:white;
     background-size:cover;
     padding: 20px;
   
 }
 
 #future-1 {
-    background-color:;
+    background-color:#d7a1f9;
 }
 .pad {
     padding:50px;
 }
 
+#timeline-bg
 /*@media (min-width: 301px) and (max-width: 600px) {
   #slogan {
     background-size:cover;
